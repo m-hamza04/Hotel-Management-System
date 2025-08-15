@@ -1,0 +1,10 @@
+﻿  BookRooms.cpp
+  CheckAvailability.cpp
+  GenerateBills.cpp
+  Login.cpp
+  Dashboard.cpp
+  ViewDetails.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  BookRooms.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HOTEL MANAGEMENT SYSTEM.vcxproj -> C:\Users\Hamza\Desktop\Hotel-Management-System\x64\Debug\HOTEL MANAGEMENT SYSTEM.exe

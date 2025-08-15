@@ -1,0 +1,16 @@
+C:\Users\Hamza\Desktop\Summer\Hotel-Management-System-master\HOTEL MA.9CB39137\x64\Debug\HOTEL MANAGEMENT SYSTEM.vcxproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\Summer\Hotel-Management-System-master\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.CheckAvailability.resources
+C:\Users\Hamza\Desktop\Summer\Hotel-Management-System-master\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.GenerateBills.resources
+C:\Users\Hamza\Desktop\Summer\Hotel-Management-System-master\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.ViewDetails.resources
+C:\Users\Hamza\Desktop\Summer\Hotel-Management-System-master\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.Login.resources
+C:\Users\Hamza\Desktop\Summer\Hotel-Management-System-master\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.Dashboard.resources
+C:\Users\Hamza\Desktop\Summer\Hotel-Management-System-master\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.BookRooms.resources
+C:\Users\Hamza\Desktop\Summer\Hotel-Management-System-master\HOTEL MA.9CB39137\x64\Debug\HOTEL MANAGEMENT SYSTEM.vcxproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\Hotel-Management-System\HOTEL MA.9CB39137\x64\Debug\HOTEL MANAGEMENT SYSTEM.vcxproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\Hotel-Management-System\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.CheckAvailability.resources
+C:\Users\Hamza\Desktop\Hotel-Management-System\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.GenerateBills.resources
+C:\Users\Hamza\Desktop\Hotel-Management-System\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.ViewDetails.resources
+C:\Users\Hamza\Desktop\Hotel-Management-System\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.Login.resources
+C:\Users\Hamza\Desktop\Hotel-Management-System\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.Dashboard.resources
+C:\Users\Hamza\Desktop\Hotel-Management-System\HOTEL MA.9CB39137\x64\Debug\HOTELMANAGEMENTSYSTEM.BookRooms.resources
+C:\Users\Hamza\Desktop\Hotel-Management-System\HOTEL MA.9CB39137\x64\Debug\HOTEL MANAGEMENT SYSTEM.vcxproj.GenerateResource.cache

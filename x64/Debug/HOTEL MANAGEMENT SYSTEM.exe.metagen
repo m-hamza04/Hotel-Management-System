@@ -1,0 +1,48 @@
+  HOTELMANAGEMENTSYSTEM.CheckAvailability.resources - Embedded, ContainedInManifestFile, 
+  HOTELMANAGEMENTSYSTEM.GenerateBills.resources - Embedded, ContainedInManifestFile, 
+  HOTELMANAGEMENTSYSTEM.ViewDetails.resources - Embedded, ContainedInManifestFile, 
+  HOTELMANAGEMENTSYSTEM.Login.resources - Embedded, ContainedInManifestFile, 
+  HOTELMANAGEMENTSYSTEM.Dashboard.resources - Embedded, ContainedInManifestFile, 
+  HOTELMANAGEMENTSYSTEM.BookRooms.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly HOTEL MANAGEMENT SYSTEM, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class HOTELMANAGEMENTSYSTEM.CheckAvailability: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class HOTELMANAGEMENTSYSTEM.Login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class HOTELMANAGEMENTSYSTEM.Dashboard: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class HOTELMANAGEMENTSYSTEM.GenerateBills: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GenerateBillButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    BackButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    HomeButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    textBox1_TextChanged(Object, EventArgs): PrivateScope, Public, HideBySig
+    dateTimePicker2_ValueChanged(Object, EventArgs): PrivateScope, Public, HideBySig
+Class HOTELMANAGEMENTSYSTEM.ViewDetails: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class HOTELMANAGEMENTSYSTEM.BookRooms: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetCellValue(DataGridViewRow, String): PrivateScope, Public, HideBySig
+    dataGridView1_SelectionChanged(Object, EventArgs): PrivateScope, Public, HideBySig
